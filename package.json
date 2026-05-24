@@ -1,0 +1,10 @@
+{
+  "name": "robovitics-official-website",
+  "version": "1.0.0",
+  "description": "Official website for RoboVITics",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "build": "echo 'Build successful'",
+    "test": "python3 check_paths.py"
+  }
+}
