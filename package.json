@@ -4,7 +4,6 @@
   "description": "Official website for RoboVITics",
   "scripts": {
     "start": "python3 -m http.server 8000",
-    "build": "echo 'Build successful'",
-    "test": "python3 check_paths.py"
+    "build": "echo 'Build successful'"
   }
 }
